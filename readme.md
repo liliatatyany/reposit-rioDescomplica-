@@ -1,45 +1,9 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+# Projeto NuDescomplica 
 
-These are common Git commands used in various situations:
+O Intituto Nu e a Descomplica se uniram para ofertar formação em tecnologia para pessoas em situação de vulnerabilidade social, eu fui uma das selecionadas para fazer parte de uma das turmas que visam explorar não somente fatores tecnícos mas também soft Skills, diversidade e Gestão de Projetos. 
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+O ciclo de formação é 100% online e tem aulas gravadas e ao vivo, material de apoio, avaliações técnicas e certificado de conclusão validado pelas duas companhias para quem for até o fim. Ao todo, serão três turmas, que terão início em julho de 2022 e conclusão em março de 2023. 
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+Cada turma terá o curso completo com duração de 15 semanas, em um total de 220 horas/aula. Do conteúdo total, boa parte é dedicada à parte técnica: serão 100 horas de aulas de desenvolvimento web (com CS e JavaScript) e de FrontEnd (com design thinking, UX, CSS, HTML, entre outros). 
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
-
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+A meta é continuar estudando. 
